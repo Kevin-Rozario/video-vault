@@ -1,6 +1,6 @@
 # Video Vault
 
-[![Video Vault](output.png)](https://video-vault-app.example.com)
+[![Video Vault](output.png)](https://video-vault-nine.vercel.app)
 
 ## 🎬 Overview
 
@@ -20,12 +20,12 @@ Video Vault is a sleek, modern web application that provides a curated collectio
 
 ## 📸 Screenshots
 
-![Video Vault Interface](https://example.com/placeholder-image.jpg)
+![Video Vault Interface](filter_feature.png)
 *Main interface with search functionality and video grid*
 
 ## 🚀 Live Demo
 
-Experience Video Vault live: [https://video-vault-app.example.com](https://video-vault-app.example.com)
+Experience Video Vault live: [https://video-vault-app.example.com](https://video-vault-nine.vercel.app)
 
 ## 🛠️ Technology Stack
 
