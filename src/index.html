@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" class="bg-[#0F0F0F]">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./output.css">
+    <title>Video Vault</title>
+</head>
+
+<body class="w-full h-full flex justify-center items-center bg-[#0F0F0F] relative">
+    <div class="h-12 flex justify-center items-center text-white rounded-[20px] absolute top-10" id="search-block">
+        <label class="input border border-[#303030] bg-[#0F0F0F] w-xl h-12 rounded-[20px] text-lg">
+            <svg class="h-[25px] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                <g stroke-linejoin="round" stroke-linecap="round" stroke-width="2.5" fill="none" stroke="currentColor">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <path d="m21 21-4.3-4.3"></path>
+                </g>
+            </svg>
+            <input class="bg-[#0F0F0F]" type="search" required placeholder="Search" id="search-input" />
+        </label>
+    </div>
+
+    <div class="w-[80%] h-[70%] grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 p-6 font-sans mt-32 bg-[#0F0F0F]"
+        id="video-container">
+
+    </div>
+    <script src="./script.js"></script>
+</body>
+
+</html>
