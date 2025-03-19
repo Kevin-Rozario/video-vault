@@ -25,7 +25,7 @@ Video Vault is a sleek, modern web application that provides a curated collectio
 
 ## 🚀 Live Demo
 
-Experience Video Vault live: [https://video-vault-app.example.com](https://video-vault-nine.vercel.app)
+Experience Video Vault live: [https://video-vault-app](https://video-vault-nine.vercel.app)
 
 ## 🛠️ Technology Stack
 
